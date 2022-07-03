@@ -1,6 +1,6 @@
-# Organización GitHub de la asignatura SYTWS para el curso 22/23
+# Organización GitHub de la asignatura AET para el curso 22/23
 
-Bienvenido a la Organización GitHub de la asignatura *Sistemas y Tecnologías Web: Servidor* de la ULL que se imparte durante el primer cuatrimestre del Curso 2022/2023
+Bienvenido a la Organización GitHub de la asignatura *Aprendizaje y Enseñanza de la Tecnología* de la ULL que se imparte durante el primer cuatrimestre del Curso 2022/2023
 
 
 * See <https://ull-mii-sytws.github.io/> for the latest version of the notes
